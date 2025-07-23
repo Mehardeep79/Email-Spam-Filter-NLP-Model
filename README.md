@@ -10,7 +10,7 @@ This project demonstrates an end-to-end **Spam Email Classification** system usi
 | **Recall**    | 0.99          | 0.99           | 0.99      | 0.99         |
 | **F1-score**  | 0.99          | 0.98           | 0.99      | 0.99         |
 | **Support**   | 892           | 254            | 1146      | 1146         |
-| **Accuracy**  |               |                |           | **0.99**     |
+| **Accuracy**  |               |                |           | **99%**     |
 
 
 ---
