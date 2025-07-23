@@ -55,7 +55,7 @@ This notebook builds a **spam email filter** using machine learning and basic NL
 
 ### 🔧 Requirements
 
-- Python 3.x
+- Python 3.9 + 
 - Libraries:
   - pandas
   - numpy
