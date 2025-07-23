@@ -2,6 +2,17 @@
 
 This project demonstrates an end-to-end **Spam Email Classification** system using **Natural Language Processing (NLP)** techniques and **Naive Bayes** classifier. The goal is to predict whether an email is spam (`1`) or not spam (`0`) based on the **subject line** of the email.
 
+### 📊 Classification Report
+
+| Metric        | Class 0 (Ham) | Class 1 (Spam) | Macro Avg | Weighted Avg |
+|---------------|---------------|----------------|-----------|--------------|
+| **Precision** | 1.00          | 0.97           | 0.98      | 0.99         |
+| **Recall**    | 0.99          | 0.99           | 0.99      | 0.99         |
+| **F1-score**  | 0.99          | 0.98           | 0.99      | 0.99         |
+| **Support**   | 892           | 254            | 1146      | 1146         |
+| **Accuracy**  |               |                |           | **0.99**     |
+
+
 ---
 
 ## 📑 Table of Contents
