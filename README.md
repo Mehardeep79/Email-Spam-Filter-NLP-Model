@@ -2,16 +2,19 @@
 
 This project demonstrates an end-to-end **Spam Email Classification** system using **Natural Language Processing (NLP)** techniques and **Naive Bayes** classifier. The goal is to predict whether an email is spam (`1`) or not spam (`0`) based on the **subject line** of the email.
 
-<p>
-  <p align="left">
-    <img src="assets/cm testing data.png" width="60%" alt="Confusion matrix testing"><br>
-    <em>Confusion Matrix Of Testing Data Classifications</em>
-  </p>
-  <p align="right">
-    <img src="assets/cm training data.png" width="60%" alt="Confusion matrix training"><br>
-    <em>Confusion Matrix Of Training Data Classifications</em>
-  </p>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/cm training data.png" width="100%" alt="training data"><br>
+      <em>Confusion Matrix Of Training Data Classifications</em>
+    </td>
+    <td align="center">
+      <img src="assets/cm testing data.png" width="100%" alt="testing data"><br>
+      <em>Confusion Matrix of Testing Data Classifications</em>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📑 Table of Contents
